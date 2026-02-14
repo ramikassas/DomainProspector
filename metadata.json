@@ -1,0 +1,7 @@
+{
+  "name": "DomainProspector",
+  "description": "منصة ذكية متكاملة لتجار النطاقات لتقييم الدومينات واستخراج العملاء المحتملين باستخدام الذكاء الاصطناعي.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
